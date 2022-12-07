@@ -1,11 +1,11 @@
 ---
-title: Personal Branding for Developers 1
+title: Personal Branding untuk Developer 1
 layout: intro
 ---
 
-# Opening
+# Pendahuluan
 
-Personal Branding for Developers
+Personal Branding untuk Developer
 
 ---
 layout: section
@@ -15,7 +15,7 @@ layout: section
 
 ---
 
-Selamat datang di course Personal Branding for Developers
+Selamat datang di course Personal Branding untuk Developer
 
 Perkenalan dahulu, saya M Haidar Hanif, biasa dipanggil Haidar
 

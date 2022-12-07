@@ -1,11 +1,11 @@
 ---
-title: Personal Branding for Developers 2
+title: Personal Branding untuk Developer 2
 layout: intro
 ---
 
 # Branding and personal branding introduction
 
-Personal Branding for Developers
+Personal Branding untuk Developer
 
 ---
 
