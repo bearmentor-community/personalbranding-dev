@@ -1,0 +1,3 @@
+# Topics
+
+UI, UX, Figma, version control, Git, GitHub, GitLab, open source, documentation, Markdown, licensing, HTML, CSS, Tailwind CSS, Bootstrap, responsive web design, Algorithm, Data Structure, JavaScript, TypeScript, Node.js, React, React Native, Remix, Next.js, Gatsby, Vite, Redux, Zustand, Jotai, Express, NestJS, Vitest, Playwright, REST API, GraphQL, Apollo, React Query, Pothos GraphQL Schema, Prisma, Sequelize, Mongoose, TypeORM, Database Management System, MySQL, MariaDB, PostgreSQL, MongoDB, Redis, deployment, Vercel, Netlify, Render, Heroku, Railway.app, Fly.io, containerization, Docker, Digital Ocean, Linode, Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure, dan masih banyak lagi.
